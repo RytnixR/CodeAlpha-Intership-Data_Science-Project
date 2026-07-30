@@ -5,7 +5,7 @@ Welcome to my official repository for the **CodeAlpha Data Science Internship Pr
 ---
 
 ## 👨‍💻 Author Information
-* **Name:** Rajaav Khanduri
+* **Name:** Rajeev Khanduri
 * **Domain:** Data Science Intern
 * **Organization:** CodeAlpha
 
