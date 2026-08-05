@@ -48,9 +48,4 @@ The dataset (`Unemployment in India.csv`) contains 740 cleaned records spanning 
 
 ---
 
-## 🚀 How to Run Locally
 
-1. **Clone this repository:**
-   ```bash
-   git clone [https://github.com/RytnixR/CodeAlpha_Unemployment_Analysis.git](https://github.com/RytnixR/CodeAlpha_Unemployment_Analysis.git)
-   cd CodeAlpha_Unemployment_Analysis
