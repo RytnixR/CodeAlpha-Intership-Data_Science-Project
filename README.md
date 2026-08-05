@@ -8,6 +8,7 @@ Welcome to my official repository for the **CodeAlpha Data Science Internship Pr
 * **Name:** Rajeev Khanduri
 * **Domain:** Data Science Intern
 * **Organization:** CodeAlpha
+* **GitHub Profile:** [github.com/RytnixR](https://github.com/RytnixR)
 
 ---
 
@@ -20,12 +21,18 @@ CodeAlpha-Intership-Project/
 │   ├── Iris.csv                                 # Dataset
 │   ├── iris_classification.ipynb                # Jupyter Notebook Solution
 │   ├── confusion_matrix.png                     # Visual Evaluation Output
-│   └── README.md                                # Task-Specific Documentation
+│   └── README.md                                # Task 1 Documentation
 │
-├── 📁 CodeAlpha_Unemployment_Analysis/         # Task 2 (Upcoming / In Progress)
+├── 📁 CodeAlpha_Unemployment_Analysis/          # Task 2 (Completed)
+│   ├── Unemployment in India.csv                # Dataset
+│   ├── Unemployment_Analysis.ipynb             # Jupyter Notebook Solution
+│   ├── unemployment_trend.png                   # EDA Visualization Output
+│   └── README.md                                # Task 2 Documentation
+│
+├── 📁 CodeAlpha_Car_Price_Prediction/           # Task 3 (Upcoming)
 │   └── README.md
 │
-├── 📁 CodeAlpha_Car_Price_Prediction/           # Task 3 (Upcoming / Optional)
+├── 📁 CodeAlpha_Sales_Prediction/               # Task 4 (Upcoming)
 │   └── README.md
 │
-└── README.md                                    # Root Repository Overview
+└── README.md                                    # Master Repository Overview
