@@ -66,5 +66,5 @@ The dataset (`Iris.csv`) consists of **150 samples** with 4 continuous numeric f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/RytnixR/CodeAlpha-Intership-Data_Science-Project/tree/main/CodeAlpha_Iris_Flower_Classification.git](https://github.com/RytnixR/CodeAlpha-Intership-Data_Science-Project/tree/main/CodeAlpha_Iris_Flower_Classification.git)
+   git clone [https://github.com/RytnixR/CodeAlpha_Iris_Flower_Classification.git](https://github.com/RytnixR/CodeAlpha_Iris_Flower_Classification.git)
    cd CodeAlpha_Iris_Flower_Classification
